@@ -1,0 +1,10 @@
+﻿  methods.cpp
+c:\users\mientol\desktop\uczelnia\semestr ii\programowanie obiektowe wykład\program\kamienpapiernozyce\kamienpapiernozyce\class.h(16): error C2440: 'initializing': cannot convert from 'const char [7]' to 'char *'
+  c:\users\mientol\desktop\uczelnia\semestr ii\programowanie obiektowe wykład\program\kamienpapiernozyce\kamienpapiernozyce\class.h(16): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\mientol\desktop\uczelnia\semestr ii\programowanie obiektowe wykład\program\kamienpapiernozyce\kamienpapiernozyce\methods.cpp(69): error C2440: 'initializing': cannot convert from 'const char [7]' to 'char *'
+  c:\users\mientol\desktop\uczelnia\semestr ii\programowanie obiektowe wykład\program\kamienpapiernozyce\kamienpapiernozyce\methods.cpp(69): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+c:\users\mientol\desktop\uczelnia\semestr ii\programowanie obiektowe wykład\program\kamienpapiernozyce\kamienpapiernozyce\methods.cpp(71): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+c:\users\mientol\desktop\uczelnia\semestr ii\programowanie obiektowe wykład\program\kamienpapiernozyce\kamienpapiernozyce\class.h(16): error C2440: 'initializing': cannot convert from 'const char [7]' to 'char *'
+  c:\users\mientol\desktop\uczelnia\semestr ii\programowanie obiektowe wykład\program\kamienpapiernozyce\kamienpapiernozyce\class.h(16): note: Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  Generating Code...
